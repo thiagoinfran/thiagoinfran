@@ -6,6 +6,7 @@ Profissional de TI com mais de 4 anos de experiência em Suporte Técnico N1/N2,
 
 📍 Campo Grande, MS - Brasil
 📧 thiagoinfrandepaulo@gmail.com
+📱 [WhatsApp](https://wa.me/5567993025461)
 🔗 [LinkedIn](https://linkedin.com/in/thiago-infran-de-paulo-93bb78200)
 
 ---
