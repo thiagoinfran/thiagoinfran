@@ -1,80 +1,101 @@
-# Olá, eu sou o Thiago 👋
+# Olá, eu sou Thiago Infran de Paulo! 👋
 
-**Suporte Técnico N1/N2 | NOC | Infraestrutura de Redes | Helpdesk**
+## Sobre mim
 
-Profissional de TI com mais de 4 anos de experiência em Suporte Técnico N1/N2, NOC e Helpdesk, atuando em ambientes corporativos de grande porte (Dell/Unisys, Americanas, Grupo Boticário/Delfia). Rotina consolidada de alto volume, com resolução de mais de 100 chamados por dia em conjunto com equipe técnica.
+Sou profissional de TI com mais de 4 anos de experiência em **Suporte Técnico N1/N2, NOC, Helpdesk e infraestrutura de redes**.
 
-📍 Campo Grande, MS - Brasil
-📧 thiagoinfrandepaulo@gmail.com
-📱 [WhatsApp](https://wa.me/5567993025461)
-🔗 [LinkedIn](https://linkedin.com/in/thiago-infran-de-paulo-93bb78200)
+Atuo na resolução de incidentes, monitoramento de ambientes corporativos e atendimento técnico presencial e remoto. Tenho experiência em rotinas de alto volume, com foco em agilidade, organização, cumprimento de SLA e continuidade operacional.
 
----
+Atualmente, busco oportunidades em **NOC ou Suporte Técnico**, nas quais eu possa contribuir com minha experiência e continuar desenvolvendo minhas habilidades na área de tecnologia.
 
-## 🛠️ Competências Técnicas
+## Minha stack
 
-**Suporte & NOC**
-`Helpdesk N1/N2` `Field Support` `Monitoramento (Zabbix, Grafana)` `ITSM (ServiceNow, Jira, Salesforce)`
+### Suporte e gestão de incidentes
 
-**Redes & Infraestrutura**
-`GPON/FTTH (OLT, ONU, UNM2000)` `MikroTik (NAT, Firewall, PPPoE)` `TCP/IP` `DNS` `DHCP`
+- Helpdesk N1/N2.
+- Field Support.
+- Diagnóstico e resolução de incidentes.
+- Gestão do ciclo completo de chamados.
+- Gestão de SLA.
+- Atendimento presencial e remoto.
 
-**Ferramentas & Sistemas**
-`Windows` `Linux (básico)` `IXC Soft` `GestãoClick` `Gestão de SLA e Incidentes`
+### Redes e infraestrutura
 
-**Em desenvolvimento**
-`Cabeamento estruturado` `Servidores` `Segurança da informação` `Lógica de programação` `Banco de dados`
+- Redes GPON/FTTH.
+- OLT e ONU.
+- UNM2000 e OLTCloud.
+- Equipamentos MikroTik.
+- NAT, Firewall e PPPoE.
+- Protocolos TCP/IP.
+- DNS e DHCP.
+- Análise de níveis de sinal óptico.
 
----
+### Monitoramento e observabilidade
 
-## 💼 Experiência Profissional
+- Zabbix.
+- Grafana.
+- Monitoramento proativo de redes.
+- Identificação de falhas e indisponibilidades.
+- Acompanhamento da estabilidade operacional.
 
-**Analista de Suporte Júnior / NOC** — Grupo Nexxbrasil
-*Jan/2026 – Abr/2026 | Campo Grande, MS*
-Monitoramento proativo de rede via Zabbix e Grafana, suporte a redes GPON/FTTH e configuração de equipamentos MikroTik em ambiente de alta demanda.
+### Sistemas e ferramentas
 
-**Assistente de Helpdesk N1/N2** — Futura Soluções em Tecnologia
-*Abr/2025 – Jan/2026 | Campo Grande, MS*
-Gestão de chamados no Jira e ServiceNow para clientes de grande porte, com resolução de mais de 100 chamados/dia e cumprimento de SLAs.
+- ServiceNow.
+- Jira.
+- Salesforce.
+- IXC Soft.
+- GestãoClick.
+- Windows.
+- Linux básico.
 
-**Técnico de Suporte de Campo e Remoto** — Unisys (Projeto Dell)
-*Jul/2021 – Abr/2025 | Campo Grande, MS | 3 anos e 10 meses*
-Suporte técnico N1/N2 presencial e remoto, gestão completa do ciclo de incidentes via ServiceNow e Salesforce.
+## Experiências em destaque
 
----
+### Monitoramento de redes GPON/FTTH
 
-## 🚀 Projetos em Destaque
+Atuação no monitoramento proativo de redes por meio do Zabbix e Grafana, com análise de OLTs, ONUs e níveis de sinal óptico. Também realizei configurações em equipamentos MikroTik, utilizando recursos como NAT, Firewall e autenticação PPPoE.
 
-### 📡 Monitoramento Proativo e Suporte a Infraestrutura GPON/FTTH
+### Gestão de chamados de TI
 
-**O Desafio:** Alto volume diário de chamados e risco de impacto ao cliente final quando falhas na rede óptica não eram identificadas a tempo.
+Experiência na gestão de chamados para clientes corporativos de grande porte, utilizando Jira, ServiceNow e Salesforce. Atuação desde a abertura e triagem até o diagnóstico, resolução e encerramento dos incidentes.
 
-**A Solução:** Monitoramento proativo via Zabbix e Grafana, análise de sinal óptico em OLT/ONU via UNM2000 e OLTCloud, e configuração de equipamentos MikroTik (NAT, Firewall, PPPoE) para resolver problemas de conectividade do lado do cliente.
+## Interesses de desenvolvimento
 
-**O Resultado:** Redução no tempo de resposta a incidentes, maior estabilidade operacional e domínio prático consolidado em redes ópticas e ferramentas de observabilidade.
+Tenho interesse em continuar evoluindo nas seguintes áreas:
 
-### 🎫 Gestão de Chamados em Alto Volume para Clientes Corporativos
+- Administração e infraestrutura de redes.
+- Operações de NOC.
+- Monitoramento e observabilidade.
+- Segurança da informação.
+- Servidores e serviços de rede.
+- Automação de tarefas de suporte.
+- Lógica de programação.
+- Banco de dados.
+- Desenvolvimento de sistemas.
+- Computação em nuvem.
+- DevOps e integração de ferramentas.
 
-**O Desafio:** Manter cumprimento de SLA para clientes de grande porte (Americanas, Grupo Boticário/Delfia, Dell/Unisys) sob rotina de mais de 100 chamados/dia.
+## Formação acadêmica
 
-**A Solução:** Gestão organizada por ferramenta ITSM (Jira e ServiceNow conforme o cliente), cobrindo o ciclo completo de abertura, triagem, diagnóstico, resolução e encerramento, priorizando por criticidade de SLA.
+- **Técnico em Redes de Computadores** — UNICORP Faculdades, em andamento.
+- **Análise e Desenvolvimento de Sistemas** — Cruzeiro do Sul Virtual, em andamento.
 
-**O Resultado:** Rotina consolidada de alta performance, que abriu caminho para evolução de carreira rumo a uma posição em NOC.
+## Projetos
 
----
+Pretendo utilizar este espaço para publicar projetos relacionados a:
 
-## 🎓 Formação Acadêmica
+- Monitoramento de redes.
+- Laboratórios de infraestrutura.
+- Configuração de dispositivos MikroTik.
+- Scripts de automação.
+- Documentação técnica.
+- Estudos de redes e segurança.
+- Aplicações desenvolvidas durante minha formação em Análise e Desenvolvimento de Sistemas.
 
-- **Técnico em Redes de Computadores** (em andamento) — UNICORP Faculdades | Abr/2026 – Mar/2027
-- **Análise e Desenvolvimento de Sistemas** (em andamento) — Cruzeiro do Sul, Virtual | 2025 – 2027
+## Contato
 
----
+- 📧 [E-mail](mailto:thiagoinfrandepaulo@gmail.com)
+- 📱 [WhatsApp](https://wa.me/5567993025461)
+- 🔗 [LinkedIn](https://linkedin.com/in/thiago-infran-de-paulo-93bb78200)
+- 💻 [GitHub](https://github.com/thiagoinfran)
 
-## 🌐 Idiomas
-
-- Português: Nativo
-- Inglês: Leitura básica (compreensão de documentação técnica)
-
----
-
-💡 *Disponível para mudança de cidade | Disponibilidade imediata para início*
+> Obrigado pela visita! Fique à vontade para conhecer meus projetos e entrar em contato. 🚀
